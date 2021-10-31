@@ -1,0 +1,109 @@
+body
+{
+    background-image: url(1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.login-box
+{
+    background-color:white;
+    height: 420px;
+    width: 330px;
+    background: rgba(0,0,0,0.7);;
+    top: 50%;
+    left: 46%;
+    position: absolute;
+    transform: translate(-20%,-40%);
+    border-bottom-style: dashed;
+   border-radius: 50px;
+}
+
+.shu1
+{
+    height: 300px;
+    width: 500px;
+    position: absolute;
+    border-radius: 50px;
+ 
+}
+.shu2
+{
+    height: 90px;
+    width: 140px;
+    border-radius: 50px;
+    
+    
+}
+
+.shu3
+{
+    background-color: royalblue;
+    text-align: center;
+     border-style: ridge;
+    border-color: darkgrey;
+    border-radius: 10px;
+    border-width: thick;
+    color: white;
+    font-size: 25px
+}
+
+input
+{
+     height: 40px;
+    width: 300px;
+    text-align: center;
+    font-size: 15px;
+    
+}
+
+.shu4
+{
+    
+    border-style: inset;
+    font-size: 28px;
+    color: white;
+    border-radius: 10px;
+}
+
+.shu5
+{
+    
+    height: 10px;
+    width: 5px;
+    font-size: 30px;
+    
+}
+
+ 
+select
+{
+   
+    height: 30px;
+    width: 280px
+}
+
+.shu6
+{
+    background-image: url(1.jpg);
+   border-radius: 50px;
+   color: white;
+    width: 140px;
+    border-style: outset;
+}
+
+.b1
+{
+background-color: cadetblue;
+   border-radius: 50px;
+   color: white;
+    width: 140px;
+    border-style: dashed;
+    border-width: medium;
+}
+
+input:hover
+{
+    background-color: dimgrey;
+}
+

@@ -1,0 +1,122 @@
+.shu1
+{
+font-size: 50px;
+    font-weight: 200;
+    text-align: center;
+    color: darkcyan;
+    
+    
+}
+
+
+.shu2
+{
+    height: 200px;
+    width: 200px;
+    border-right-style: dashed;
+    border-radius: 30px;
+    border-right-style: double;
+    border-top-style: insets;
+   
+}
+
+.shu3
+{
+    height: 300px;
+    width: 250px;
+    background: rgba(0,0,0,0.6);
+    border-top-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+
+.t1
+{
+    text-align: center;
+    color: azure;
+}
+
+.t2
+{
+    color:burlywood;
+    border-bottom-width: thick;
+    border-bottom-style: dashed;
+}
+
+.shu4
+{
+        
+    background-color:white;
+    height: 300px;
+    width: 250px;
+    background: rgba(0,0,0,0.6);
+    top: 67.7%;
+    left: 82.5%;
+    position: absolute;
+    transform: translate(-20%,-40%);
+   border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    
+}
+
+.b1
+{
+
+    background-color: cadetblue;
+   border-radius: 50px;
+   color: white;
+    width: 140px;
+    border-style: dashed;
+    border-width: medium;
+}
+    
+
+
+input
+{
+ 
+    height: 40px;
+    width: 300px;
+    text-align: center;
+    font-size: 15px;
+    
+}
+
+a:hover
+{
+    background-color: orangered;
+}
+
+input:hover
+{
+    background-color: dimgrey;
+}
+
+.shu5
+{
+    background-color:white;
+    height: 300px;
+    width: 250px;
+  background: rgba(0,0,0,0);
+    top: 71.7%;
+    left: 45.5%;
+    position: absolute;
+    transform: translate(-20%,-40%);
+   border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+     
+}
+
+.i1
+{
+    height: 145px;
+    width: 145px;
+    border-top-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    
+}
+
+.shu5:hover
+{
+    background-image: url(3.jpeg);
+
+}
